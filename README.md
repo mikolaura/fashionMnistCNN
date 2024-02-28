@@ -9,10 +9,11 @@ For start you need to create and setup venv and install requirements using this 
 
 * `python -m venv venv`
 
-If you use windows terminal
+If you use windows powershell
 
 * `.\venv\Scripts\activate`
-If you use cmd see in the internet(it has to be same)
+
+**Note:** *If you use cmd or bash see in the internet(it has to be same)*
 
 * `pip install -r requirements.txt`
 
